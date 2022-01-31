@@ -8,6 +8,10 @@ My passion for software lies with dreaming up ideas and making them come true wi
 - :email: any freelance work? do reach, [email](mailto:pinkysaharan12@gmail.com) :)
 
 - :speech_balloon: ask me about anything, i am happy to help;
+  
+  Languages and Tools:
+  
+  <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
     
     currently looking for new oppurtunities
 - 👀 I’m interested in ...
