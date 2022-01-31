@@ -7,7 +7,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 - :email: any freelance work? do reach, [email](mailto:pinkysaharan12@gmail.com) :)
 
-      currently looking for new oppurtunities
+- :speech_balloon: ask me about anything, i am happy to help;
+    
+    currently looking for new oppurtunities
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
