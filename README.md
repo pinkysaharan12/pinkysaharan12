@@ -12,6 +12,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
   Languages and Tools:
   
   <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
+  <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
     
     currently looking for new oppurtunities
 - 👀 I’m interested in ...
