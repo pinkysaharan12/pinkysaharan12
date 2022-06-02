@@ -1,5 +1,5 @@
  ## Hey there 👋 
- [<img width=20 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/)  [<img width=20 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pinkysaharan12.visitor-badge)
+ [<img width=20 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pinkysaharan12.visitor-badge)
 
 I’m Bakhtawer Nisar, a passionate self-taught Python Developer from Pakistan. 3+ years of experience in Programming and logic building. Knowledgeable in python frameworks related to data such as Scipy, Matplotlib, Numpy. 
 
@@ -9,7 +9,7 @@ My passion for software lies with dreaming up ideas and making them come true wi
 
 - :speech_balloon: ask me about anything, i am happy to help;
   
-  Languages and Tools:
+  Things I code with:
   
   <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
   <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
