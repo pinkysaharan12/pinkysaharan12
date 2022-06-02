@@ -1,5 +1,5 @@
  ## Hey there 👋 
- [<img width=20 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pinkysaharan12.visitor-badge)
+ [<img width=20 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/)  [<img width=20 src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pinkysaharan12.visitor-badge)
 
 I’m Bakhtawer Nisar, a passionate self-taught Python Developer from Pakistan. 3+ years of experience in Programming and logic building. Knowledgeable in python frameworks related to data such as Scipy, Matplotlib, Numpy. 
 
