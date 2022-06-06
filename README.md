@@ -19,6 +19,9 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">
   <img width=30 src="https://editor.analyticsvidhya.com/uploads/22024tf.png">
   <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
+  
+  ![ana-d-small](https://user-images.githubusercontent.com/57320082/172090178-bfc03793-05ff-45b7-93f8-5dc71d495fe1.gif)
+
     
     currently looking for new oppurtunities
 - 👀 I’m interested in ...
