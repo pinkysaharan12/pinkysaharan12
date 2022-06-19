@@ -1,5 +1,5 @@
  ## Hey there 👋 
- [<img width=20 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pinkysaharan12.visitor-badge)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pinkysaharan12.visitor-badge)
 
 I’m Bakhtawer Nisar, a passionate self-taught Python Developer from Pakistan. 3+ years of experience in Programming and logic building. Knowledgeable in python frameworks related to data such as Scipy, Matplotlib, Numpy. 
 
@@ -21,6 +21,12 @@ My passion for software lies with dreaming up ideas and making them come true wi
   <img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
   
   ![ana-d-small](https://user-images.githubusercontent.com/57320082/172090178-bfc03793-05ff-45b7-93f8-5dc71d495fe1.gif)
+  
+  
+  Where to find me
+   
+   [<img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/bakhtawer-nisar-b939081b4/) 
+
 
     
     currently looking for new oppurtunities
